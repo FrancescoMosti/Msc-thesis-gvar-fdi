@@ -44,5 +44,3 @@ Shock responses are evaluated through Generalised Impulse Response Functions (GI
 ## Contact
 
 Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/francescomosti](https://www.linkedin.com/in/francesco-mosti-2803121a3/)) or email me (francesco.mosti@yahoo.com) for questions or collaborations.
-
-Add initial README with thesis info
