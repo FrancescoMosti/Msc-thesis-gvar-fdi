@@ -39,7 +39,7 @@ Shock responses are evaluated through Generalised Impulse Response Functions (GI
 ## Files
 
 - `Thesis_FrancescoMosti_2022.pdf`: Full thesis (GVAR model, results, discussion)
-- `Presentation.pdf`: Summary slides used during defense (optional)
+- `Presentation_Mosti.pdf`: Summary slides used during defense (optional)
 
 ## Contact
 
